@@ -1,0 +1,38 @@
+[
+  {
+    "CveId": "CVE-2024-26241",
+    "Description": "Windows LPE (Windows 11 22H2/23H2)",
+    "AffectedBuilds": {
+      "22621": [ 5036893 ],
+      "22631": [ 5036893 ]
+    }
+  },
+  {
+    "CveId": "CVE-2024-38100",
+    "Description": "Windows LPE (Windows 11 24H2)",
+    "AffectedBuilds": {
+      "26100": [ 5041585 ]
+    }
+  },
+  {
+    "CveId": "CVE-2024-38063",
+    "Description": "Windows TCP/IP RCE (Tüm Sürümler)",
+    "AffectedBuilds": {
+      "22621": [ 5041585 ],
+      "22631": [ 5041585 ],
+      "26100": [ 5041585 ],
+      "26200": [ 5041585 ]
+    }
+  },
+  {
+    "CveId": "CVE-2022-21882",
+    "Description": "Win32k Elevation of Privilege",
+    "AffectedBuilds": {
+      "18363": [ 5009545 ],
+      "19042": [ 5009543 ],
+      "19043": [ 5009543 ],
+      "20348": [ 5009555 ],
+      "22000": [ 5009566 ]
+    }
+  }
+]
